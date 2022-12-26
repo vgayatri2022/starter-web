@@ -18,3 +18,5 @@ This change is not in the staging area
 ## section at 7.06
 
 ##Section at 7.07
+
+##Copyright
