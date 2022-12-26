@@ -10,9 +10,11 @@ Sample website with plenty of files for demos
 this is the inrtoduction setion 
 
 ##Deployment
-
+This has been edited at the end
 
 ##Section at 7.05
-
+This change is not in the staging area
 
 ## section at 7.06
+
+##Section at 7.07
